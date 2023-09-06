@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MyGymWebsite/static/css/main.4e60360d.css",
+    "main.js": "/MyGymWebsite/static/js/main.164d0339.js",
+    "static/media/newgympicture.jpg": "/MyGymWebsite/static/media/newgympicture.26a518d28addf90ab1d4.jpg",
+    "static/media/bikepicture.jpg": "/MyGymWebsite/static/media/bikepicture.f7a1e5e811f45f93f493.jpg",
+    "index.html": "/MyGymWebsite/index.html",
+    "main.4e60360d.css.map": "/MyGymWebsite/static/css/main.4e60360d.css.map",
+    "main.164d0339.js.map": "/MyGymWebsite/static/js/main.164d0339.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e60360d.css",
+    "static/js/main.164d0339.js"
+  ]
+}
